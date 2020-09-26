@@ -31,6 +31,7 @@
           </defs>
         </svg>
       </g-link>
+
       <nav class="nav">
         <g-link class="nav__link" to="/">Home</g-link>
         <g-link class="nav__link" to="/about/">About</g-link>
@@ -39,14 +40,6 @@
     <slot />
   </div>
 </template>
-
-<static-query>
-query {
-  metadata {
-    siteName
-  }
-}
-</static-query>
 
 <style>
 body {
