@@ -8,6 +8,9 @@
     "prettier": "prettier --write \"**/*.{js,html,css,scss,vue}\""
   },
   "dependencies": {
-    "gridsome": "^0.7.0"
+    "bootstrap": "^4.5.2",
+    "bootstrap-vue": "^2.17.3",
+    "gridsome": "^0.7.0",
+    "vue": "^2.6.12"
   }
 }
