@@ -38,6 +38,11 @@
       </nav>
     </header>
     <slot />
+    <div class="footer">
+        <p>
+            &copy; 2020 - Garner Engineering | 9 Davis Lane, Fairview, NC 28730 | 828-337-5716
+        </p>
+    </div>
   </div>
 </template>
 

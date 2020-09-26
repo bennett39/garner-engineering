@@ -47,7 +47,7 @@
         your dam back in compliance.
     </p>
 
-    <h2>Contact</h3>
+    <h2>Contact</h2>
     <p>Tell me about your dam and how I can help.</p>
   </Layout>
 </template>
