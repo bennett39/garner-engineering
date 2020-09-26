@@ -4,7 +4,8 @@
   "scripts": {
     "build": "gridsome build",
     "develop": "gridsome develop",
-    "explore": "gridsome explore"
+    "explore": "gridsome explore",
+    "prettier": "prettier --write \"**/*.{js,html,css,scss,vue}\""
   },
   "dependencies": {
     "gridsome": "^0.7.0"
