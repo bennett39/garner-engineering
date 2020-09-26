@@ -1,10 +1,7 @@
-// This is where project configuration and plugin options are located.
-// Learn more: https://gridsome.org/docs/config
-
-// Changes here require a server restart.
-// To restart press CTRL + C in terminal and run `gridsome develop`
-
 module.exports = {
-  siteName: 'Garner Engineering',
-  plugins: []
+    siteName: 'Garner Engineering',
+    siteDescription: 'Garner Enginnering is a firm in Asheville, NC specializing in dam engineering',
+    siteUrl: 'https://garner-eng.com',
+    titleTemplate: '%s | Garner Engineering',
+    plugins: [],
 }
