@@ -55,7 +55,7 @@
 <script>
 export default {
   metaInfo: {
-    title: "Dam Engineering"
+    title: 'Dam Engineering'
   }
 };
 </script>

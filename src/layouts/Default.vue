@@ -25,11 +25,21 @@
     <slot />
     <div class="footer">
         <p>
-            &copy; 2020 - Garner Engineering | 9 Davis Lane, Fairview, NC 28730 | 828-337-5716
+            &copy; {{ year }} - Garner Engineering | 9 Davis Lane, Fairview, NC 28730 | 828-337-5716
         </p>
     </div>
   </div>
 </template>
+
+<script>
+    export default {
+        data: function() {
+            return {
+                year: new Date().getFullYear()
+            }
+        }
+    }
+</script>
 
 <style>
 body {
