@@ -1,83 +1,141 @@
 <template>
-<Layout>
+  <Layout>
     <!-- ======= Clients Section ======= -->
     <section id="clients" class="clients">
       <div class="container-fluid" data-aos="zoom-in">
         <div class="row justify-content-center">
           <div class="col-2 text-center">
-              <g-image src="~/assets/theme/assets/img/clients/client-1.png" alt="" width="100%"/>
+            <g-image
+              src="~/assets/theme/assets/img/clients/client-1.png"
+              alt=""
+              width="100%"
+            />
           </div>
           <div class="col-2 text-center">
-              <g-image src="~/assets/theme/assets/img/clients/client-2.png" alt="" width="100%"/>
+            <g-image
+              src="~/assets/theme/assets/img/clients/client-2.png"
+              alt=""
+              width="100%"
+            />
           </div>
           <div class="col-2 text-center">
-              <g-image src="~/assets/theme/assets/img/clients/client-3.png" alt="" width="100%"/>
+            <g-image
+              src="~/assets/theme/assets/img/clients/client-3.png"
+              alt=""
+              width="100%"
+            />
           </div>
           <div class="col-2 text-center">
-              <g-image src="~/assets/theme/assets/img/clients/client-4.png" alt="" width="100%"/>
+            <g-image
+              src="~/assets/theme/assets/img/clients/client-4.png"
+              alt=""
+              width="100%"
+            />
           </div>
           <div class="col-2 text-center">
-              <g-image src="~/assets/theme/assets/img/clients/client-5.png" alt="" width="100%"/>
+            <g-image
+              src="~/assets/theme/assets/img/clients/client-5.png"
+              alt=""
+              width="100%"
+            />
           </div>
           <div class="col-2 text-center">
-              <g-image src="~/assets/theme/assets/img/clients/client-6.png" alt="" width="100%"/>
+            <g-image
+              src="~/assets/theme/assets/img/clients/client-6.png"
+              alt=""
+              width="100%"
+            />
           </div>
         </div>
       </div>
-    </section><!-- End Clients Section -->
+    </section>
+    <!-- End Clients Section -->
 
     <!-- ======= About Section ======= -->
     <section id="about" class="about section-bg">
       <div class="container" data-aos="fade-up">
-
         <div class="row no-gutters">
           <div class="content col-xl-5 d-flex align-items-stretch">
             <div class="content">
               <h3>Voluptatem dignissimos provident quasi</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis
+                aute irure dolor in reprehenderit
               </p>
-              <g-link href="#" class="about-btn"><span>About us</span> <i class="bx
-              bx-chevron-right"></i></g-link>
+              <g-link href="#" class="about-btn"
+                ><span>About us</span>
+                <i
+                  class="bx
+              bx-chevron-right"
+                ></i
+              ></g-link>
             </div>
           </div>
           <div class="col-xl-7 d-flex align-items-stretch">
             <div class="icon-boxes d-flex flex-column justify-content-center">
               <div class="row">
-                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
+                <div
+                  class="col-md-6 icon-box"
+                  data-aos="fade-up"
+                  data-aos-delay="100"
+                >
                   <i class="bx bx-receipt"></i>
                   <h4>Corporis voluptates sit</h4>
-                  <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                  <p>
+                    Consequuntur sunt aut quasi enim aliquam quae harum pariatur
+                    laboris nisi ut aliquip
+                  </p>
                 </div>
-                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
+                <div
+                  class="col-md-6 icon-box"
+                  data-aos="fade-up"
+                  data-aos-delay="200"
+                >
                   <i class="bx bx-cube-alt"></i>
                   <h4>Ullamco laboris nisi</h4>
-                  <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                  <p>
+                    Excepteur sint occaecat cupidatat non proident, sunt in
+                    culpa qui officia deserunt
+                  </p>
                 </div>
-                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
+                <div
+                  class="col-md-6 icon-box"
+                  data-aos="fade-up"
+                  data-aos-delay="300"
+                >
                   <i class="bx bx-images"></i>
                   <h4>Labore consequatur</h4>
-                  <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+                  <p>
+                    Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut
+                    maiores omnis facere
+                  </p>
                 </div>
-                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
+                <div
+                  class="col-md-6 icon-box"
+                  data-aos="fade-up"
+                  data-aos-delay="400"
+                >
                   <i class="bx bx-shield"></i>
                   <h4>Beatae veritatis</h4>
-                  <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+                  <p>
+                    Expedita veritatis consequuntur nihil tempore laudantium
+                    vitae denat pacta
+                  </p>
                 </div>
               </div>
-            </div><!-- End .content-->
+            </div>
+            <!-- End .content-->
           </div>
         </div>
-
       </div>
-    </section><!-- End About Section -->
+    </section>
+    <!-- End About Section -->
 
     <!-- ======= Counts Section ======= -->
     <section id="counts" class="counts">
       <div class="container" data-aos="fade-up">
-
         <div class="row">
-
           <div class="col-lg-3 col-md-6">
             <div class="count-box">
               <i class="icofont-simple-smile"></i>
@@ -109,19 +167,21 @@
               <p>Hard Workers</p>
             </div>
           </div>
-
         </div>
-
       </div>
-    </section><!-- End Counts Section -->
+    </section>
+    <!-- End Counts Section -->
 
     <!-- ======= Tabs Section ======= -->
     <section id="tabs" class="tabs">
       <div class="container" data-aos="fade-up">
-
         <ul class="nav nav-tabs row d-flex">
           <li class="nav-item col-3">
-            <g-link class="nav-link active show" data-toggle="tab" href="#tab-1">
+            <g-link
+              class="nav-link active show"
+              data-toggle="tab"
+              href="#tab-1"
+            >
               <i class="ri-gps-line"></i>
               <h4 class="d-none d-lg-block">Modi sit est dela pireda nest</h4>
             </g-link>
@@ -149,113 +209,207 @@
         <div class="tab-content">
           <div class="tab-pane active show" id="tab-1">
             <div class="row">
-              <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0" data-aos="fade-up" data-aos-delay="100">
-                <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+              <div
+                class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0"
+                data-aos="fade-up"
+                data-aos-delay="100"
+              >
+                <h3>
+                  Voluptatem dignissimos provident quasi corporis voluptates sit
+                  assumenda.
+                </h3>
                 <p class="font-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                  magna aliqua.
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 </p>
                 <ul>
-                  <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                  <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                  <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+                  <li>
+                    <i class="ri-check-double-line"></i> Ullamco laboris nisi ut
+                    aliquip ex ea commodo consequat.
+                  </li>
+                  <li>
+                    <i class="ri-check-double-line"></i> Duis aute irure dolor
+                    in reprehenderit in voluptate velit.
+                  </li>
+                  <li>
+                    <i class="ri-check-double-line"></i> Ullamco laboris nisi ut
+                    aliquip ex ea commodo consequat. Duis aute irure dolor in
+                    reprehenderit in voluptate trideta storacalaperda mastiro
+                    dolore eu fugiat nulla pariatur.
+                  </li>
                 </ul>
                 <p>
-                  Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                  velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                  culpa qui officia deserunt mollit anim id est laborum
+                  Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
+                  aute irure dolor in reprehenderit in voluptate velit esse
+                  cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                  occaecat cupidatat non proident, sunt in culpa qui officia
+                  deserunt mollit anim id est laborum
                 </p>
               </div>
-              <div class="col-lg-6 order-1 order-lg-2 text-center" data-aos="fade-up" data-aos-delay="200">
-                <g-image src="~/assets/theme/assets/img/tabs-1.jpg" alt="" class="img-fluid"/>
+              <div
+                class="col-lg-6 order-1 order-lg-2 text-center"
+                data-aos="fade-up"
+                data-aos-delay="200"
+              >
+                <g-image
+                  src="~/assets/theme/assets/img/tabs-1.jpg"
+                  alt=""
+                  class="img-fluid"
+                />
               </div>
             </div>
           </div>
           <div class="tab-pane" id="tab-2">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                <h3>Neque exercitationem debitis soluta quos debitis quo mollitia officia est</h3>
+                <h3>
+                  Neque exercitationem debitis soluta quos debitis quo mollitia
+                  officia est
+                </h3>
                 <p>
-                  Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                  velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                  culpa qui officia deserunt mollit anim id est laborum
+                  Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
+                  aute irure dolor in reprehenderit in voluptate velit esse
+                  cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                  occaecat cupidatat non proident, sunt in culpa qui officia
+                  deserunt mollit anim id est laborum
                 </p>
                 <p class="font-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                  magna aliqua.
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 </p>
                 <ul>
-                  <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                  <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                  <li><i class="ri-check-double-line"></i> Provident mollitia neque rerum asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</li>
-                  <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+                  <li>
+                    <i class="ri-check-double-line"></i> Ullamco laboris nisi ut
+                    aliquip ex ea commodo consequat.
+                  </li>
+                  <li>
+                    <i class="ri-check-double-line"></i> Duis aute irure dolor
+                    in reprehenderit in voluptate velit.
+                  </li>
+                  <li>
+                    <i class="ri-check-double-line"></i> Provident mollitia
+                    neque rerum asperiores dolores quos qui a. Ipsum neque dolor
+                    voluptate nisi sed.
+                  </li>
+                  <li>
+                    <i class="ri-check-double-line"></i> Ullamco laboris nisi ut
+                    aliquip ex ea commodo consequat. Duis aute irure dolor in
+                    reprehenderit in voluptate trideta storacalaperda mastiro
+                    dolore eu fugiat nulla pariatur.
+                  </li>
                 </ul>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <g-image src="~/assets/theme/assets/img/tabs-2.jpg" alt="" class="img-fluid"/>
+                <g-image
+                  src="~/assets/theme/assets/img/tabs-2.jpg"
+                  alt=""
+                  class="img-fluid"
+                />
               </div>
             </div>
           </div>
           <div class="tab-pane" id="tab-3">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                <h3>Voluptatibus commodi ut accusamus ea repudiandae ut autem dolor ut assumenda</h3>
+                <h3>
+                  Voluptatibus commodi ut accusamus ea repudiandae ut autem
+                  dolor ut assumenda
+                </h3>
                 <p>
-                  Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                  velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                  culpa qui officia deserunt mollit anim id est laborum
+                  Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
+                  aute irure dolor in reprehenderit in voluptate velit esse
+                  cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                  occaecat cupidatat non proident, sunt in culpa qui officia
+                  deserunt mollit anim id est laborum
                 </p>
                 <ul>
-                  <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                  <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                  <li><i class="ri-check-double-line"></i> Provident mollitia neque rerum asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</li>
+                  <li>
+                    <i class="ri-check-double-line"></i> Ullamco laboris nisi ut
+                    aliquip ex ea commodo consequat.
+                  </li>
+                  <li>
+                    <i class="ri-check-double-line"></i> Duis aute irure dolor
+                    in reprehenderit in voluptate velit.
+                  </li>
+                  <li>
+                    <i class="ri-check-double-line"></i> Provident mollitia
+                    neque rerum asperiores dolores quos qui a. Ipsum neque dolor
+                    voluptate nisi sed.
+                  </li>
                 </ul>
                 <p class="font-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                  magna aliqua.
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 </p>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <g-image src="~/assets/theme/assets/img/tabs-3.jpg" alt="" class="img-fluid"/>
+                <g-image
+                  src="~/assets/theme/assets/img/tabs-3.jpg"
+                  alt=""
+                  class="img-fluid"
+                />
               </div>
             </div>
           </div>
           <div class="tab-pane" id="tab-4">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                <h3>Omnis fugiat ea explicabo sunt dolorum asperiores sequi inventore rerum</h3>
+                <h3>
+                  Omnis fugiat ea explicabo sunt dolorum asperiores sequi
+                  inventore rerum
+                </h3>
                 <p>
-                  Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                  velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                  culpa qui officia deserunt mollit anim id est laborum
+                  Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
+                  aute irure dolor in reprehenderit in voluptate velit esse
+                  cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                  occaecat cupidatat non proident, sunt in culpa qui officia
+                  deserunt mollit anim id est laborum
                 </p>
                 <p class="font-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                  magna aliqua.
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 </p>
                 <ul>
-                  <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                  <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                  <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+                  <li>
+                    <i class="ri-check-double-line"></i> Ullamco laboris nisi ut
+                    aliquip ex ea commodo consequat.
+                  </li>
+                  <li>
+                    <i class="ri-check-double-line"></i> Duis aute irure dolor
+                    in reprehenderit in voluptate velit.
+                  </li>
+                  <li>
+                    <i class="ri-check-double-line"></i> Ullamco laboris nisi ut
+                    aliquip ex ea commodo consequat. Duis aute irure dolor in
+                    reprehenderit in voluptate trideta storacalaperda mastiro
+                    dolore eu fugiat nulla pariatur.
+                  </li>
                 </ul>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <g-image src="~/assets/theme/assets/img/tabs-4.jpg" alt="" class="img-fluid"/>
+                <g-image
+                  src="~/assets/theme/assets/img/tabs-4.jpg"
+                  alt=""
+                  class="img-fluid"
+                />
               </div>
             </div>
           </div>
         </div>
-
       </div>
-    </section><!-- End Tabs Section -->
+    </section>
+    <!-- End Tabs Section -->
 
     <!-- ======= Services Section ======= -->
     <section id="services" class="services section-bg ">
       <div class="container" data-aos="fade-up">
-
         <div class="section-title">
           <h2>Services</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.</p>
+          <p>
+            Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex
+            aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos
+            quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
+          </p>
         </div>
 
         <div class="row">
@@ -263,56 +417,77 @@
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <i class="icofont-computer"></i>
               <h4><g-link href="#">Lorem Ipsum</g-link></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              <p>
+                Voluptatum deleniti atque corrupti quos dolores et quas
+                molestias excepturi sint occaecati cupiditate non provident
+              </p>
             </div>
           </div>
           <div class="col-md-6 mt-4 mt-md-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <i class="icofont-chart-bar-graph"></i>
               <h4><g-link href="#">Dolor Sitema</g-link></h4>
-              <p>Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+              <p>
+                Minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+                aliquip ex ea commodo consequat tarad limino ata
+              </p>
             </div>
           </div>
           <div class="col-md-6 mt-4 mt-md-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
               <i class="icofont-image"></i>
               <h4><g-link href="#">Sed ut perspiciatis</g-link></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+              <p>
+                Duis aute irure dolor in reprehenderit in voluptate velit esse
+                cillum dolore eu fugiat nulla pariatur
+              </p>
             </div>
           </div>
           <div class="col-md-6 mt-4 mt-md-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
               <i class="icofont-settings"></i>
               <h4><g-link href="#">Nemo Enim</g-link></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+              <p>
+                Excepteur sint occaecat cupidatat non proident, sunt in culpa
+                qui officia deserunt mollit anim id est laborum
+              </p>
             </div>
           </div>
           <div class="col-md-6 mt-4 mt-md-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="500">
               <i class="icofont-earth"></i>
               <h4><g-link href="#">Magni Dolore</g-link></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+              <p>
+                At vero eos et accusamus et iusto odio dignissimos ducimus qui
+                blanditiis praesentium voluptatum deleniti atque
+              </p>
             </div>
           </div>
           <div class="col-md-6 mt-4 mt-md-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="600">
               <i class="icofont-tasks-alt"></i>
               <h4><g-link href="#">Eiusmod Tempor</g-link></h4>
-              <p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+              <p>
+                Et harum quidem rerum facilis est et expedita distinctio. Nam
+                libero tempore, cum soluta nobis est eligendi
+              </p>
             </div>
           </div>
         </div>
-
       </div>
-    </section><!-- End Services Section -->
+    </section>
+    <!-- End Services Section -->
 
     <!-- ======= Portfolio Section ======= -->
     <section id="portfolio" class="portfolio">
       <div class="container" data-aos="fade-up">
-
         <div class="section-title">
           <h2>Portfolio</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.</p>
+          <p>
+            Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex
+            aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos
+            quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
+          </p>
         </div>
 
         <div class="row" data-aos="fade-up" data-aos-delay="100">
@@ -326,20 +501,38 @@
           </div>
         </div>
 
-        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
-
+        <div
+          class="row portfolio-container"
+          data-aos="fade-up"
+          data-aos-delay="200"
+        >
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <g-image src="~/assets/theme/assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt=""/>
+              <g-image
+                src="~/assets/theme/assets/img/portfolio/portfolio-1.jpg"
+                class="img-fluid"
+                alt=""
+              />
               <div class="portfolio-info">
                 <h4>App 1</h4>
                 <p>App</p>
                 <div class="portfolio-links">
-                  <g-link href="~/assets/theme/assets/img/portfolio/portfolio-1.jpg"
-                  data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx
-                  bx-plus"></i></g-link>
-                  <g-link href="portfolio-details.html" title="More Details"><i class="bx
-                  bx-link"></i></g-link>
+                  <g-link
+                    href="~/assets/theme/assets/img/portfolio/portfolio-1.jpg"
+                    data-gall="portfolioGallery"
+                    class="venobox"
+                    title="App 1"
+                    ><i
+                      class="bx
+                  bx-plus"
+                    ></i
+                  ></g-link>
+                  <g-link href="portfolio-details.html" title="More Details"
+                    ><i
+                      class="bx
+                  bx-link"
+                    ></i
+                  ></g-link>
                 </div>
               </div>
             </div>
@@ -347,16 +540,31 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <g-image src="~/assets/theme/assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt=""/>
+              <g-image
+                src="~/assets/theme/assets/img/portfolio/portfolio-2.jpg"
+                class="img-fluid"
+                alt=""
+              />
               <div class="portfolio-info">
                 <h4>Web 3</h4>
                 <p>Web</p>
                 <div class="portfolio-links">
-                  <g-link href="~/assets/theme/assets/img/portfolio/portfolio-2.jpg"
-                  data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx
-                  bx-plus"></i></g-link>
-                  <g-link href="portfolio-details.html" title="More Details"><i class="bx
-                  bx-link"></i></g-link>
+                  <g-link
+                    href="~/assets/theme/assets/img/portfolio/portfolio-2.jpg"
+                    data-gall="portfolioGallery"
+                    class="venobox"
+                    title="Web 3"
+                    ><i
+                      class="bx
+                  bx-plus"
+                    ></i
+                  ></g-link>
+                  <g-link href="portfolio-details.html" title="More Details"
+                    ><i
+                      class="bx
+                  bx-link"
+                    ></i
+                  ></g-link>
                 </div>
               </div>
             </div>
@@ -364,16 +572,31 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <g-image src="~/assets/theme/assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt=""/>
+              <g-image
+                src="~/assets/theme/assets/img/portfolio/portfolio-3.jpg"
+                class="img-fluid"
+                alt=""
+              />
               <div class="portfolio-info">
                 <h4>App 2</h4>
                 <p>App</p>
                 <div class="portfolio-links">
-                  <g-link href="~/assets/theme/assets/img/portfolio/portfolio-3.jpg"
-                  data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx
-                  bx-plus"></i></g-link>
-                  <g-link href="portfolio-details.html" title="More Details"><i class="bx
-                  bx-link"></i></g-link>
+                  <g-link
+                    href="~/assets/theme/assets/img/portfolio/portfolio-3.jpg"
+                    data-gall="portfolioGallery"
+                    class="venobox"
+                    title="App 2"
+                    ><i
+                      class="bx
+                  bx-plus"
+                    ></i
+                  ></g-link>
+                  <g-link href="portfolio-details.html" title="More Details"
+                    ><i
+                      class="bx
+                  bx-link"
+                    ></i
+                  ></g-link>
                 </div>
               </div>
             </div>
@@ -381,16 +604,31 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <g-image src="~/assets/theme/assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt=""/>
+              <g-image
+                src="~/assets/theme/assets/img/portfolio/portfolio-4.jpg"
+                class="img-fluid"
+                alt=""
+              />
               <div class="portfolio-info">
                 <h4>Card 2</h4>
                 <p>Card</p>
                 <div class="portfolio-links">
-                  <g-link href="~/assets/theme/assets/img/portfolio/portfolio-4.jpg"
-                  data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx
-                  bx-plus"></i></g-link>
-                  <g-link href="portfolio-details.html" title="More Details"><i class="bx
-                  bx-link"></i></g-link>
+                  <g-link
+                    href="~/assets/theme/assets/img/portfolio/portfolio-4.jpg"
+                    data-gall="portfolioGallery"
+                    class="venobox"
+                    title="Card 2"
+                    ><i
+                      class="bx
+                  bx-plus"
+                    ></i
+                  ></g-link>
+                  <g-link href="portfolio-details.html" title="More Details"
+                    ><i
+                      class="bx
+                  bx-link"
+                    ></i
+                  ></g-link>
                 </div>
               </div>
             </div>
@@ -398,16 +636,31 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <g-image src="~/assets/theme/assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt=""/>
+              <g-image
+                src="~/assets/theme/assets/img/portfolio/portfolio-5.jpg"
+                class="img-fluid"
+                alt=""
+              />
               <div class="portfolio-info">
                 <h4>Web 2</h4>
                 <p>Web</p>
                 <div class="portfolio-links">
-                  <g-link href="~/assets/theme/assets/img/portfolio/portfolio-5.jpg"
-                  data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="bx
-                  bx-plus"></i></g-link>
-                  <g-link href="portfolio-details.html" title="More Details"><i class="bx
-                  bx-link"></i></g-link>
+                  <g-link
+                    href="~/assets/theme/assets/img/portfolio/portfolio-5.jpg"
+                    data-gall="portfolioGallery"
+                    class="venobox"
+                    title="Web 2"
+                    ><i
+                      class="bx
+                  bx-plus"
+                    ></i
+                  ></g-link>
+                  <g-link href="portfolio-details.html" title="More Details"
+                    ><i
+                      class="bx
+                  bx-link"
+                    ></i
+                  ></g-link>
                 </div>
               </div>
             </div>
@@ -415,16 +668,31 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <g-image src="~/assets/theme/assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt=""/>
+              <g-image
+                src="~/assets/theme/assets/img/portfolio/portfolio-6.jpg"
+                class="img-fluid"
+                alt=""
+              />
               <div class="portfolio-info">
                 <h4>App 3</h4>
                 <p>App</p>
                 <div class="portfolio-links">
-                  <g-link href="~/assets/theme/assets/img/portfolio/portfolio-6.jpg"
-                  data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx
-                  bx-plus"></i></g-link>
-                  <g-link href="portfolio-details.html" title="More Details"><i class="bx
-                  bx-link"></i></g-link>
+                  <g-link
+                    href="~/assets/theme/assets/img/portfolio/portfolio-6.jpg"
+                    data-gall="portfolioGallery"
+                    class="venobox"
+                    title="App 3"
+                    ><i
+                      class="bx
+                  bx-plus"
+                    ></i
+                  ></g-link>
+                  <g-link href="portfolio-details.html" title="More Details"
+                    ><i
+                      class="bx
+                  bx-link"
+                    ></i
+                  ></g-link>
                 </div>
               </div>
             </div>
@@ -432,16 +700,31 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <g-image src="~/assets/theme/assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt=""/>
+              <g-image
+                src="~/assets/theme/assets/img/portfolio/portfolio-7.jpg"
+                class="img-fluid"
+                alt=""
+              />
               <div class="portfolio-info">
                 <h4>Card 1</h4>
                 <p>Card</p>
                 <div class="portfolio-links">
-                  <g-link href="~/assets/theme/assets/img/portfolio/portfolio-7.jpg"
-                  data-gall="portfolioGallery" class="venobox" title="Card 1"><i class="bx
-                  bx-plus"></i></g-link>
-                  <g-link href="portfolio-details.html" title="More Details"><i class="bx
-                  bx-link"></i></g-link>
+                  <g-link
+                    href="~/assets/theme/assets/img/portfolio/portfolio-7.jpg"
+                    data-gall="portfolioGallery"
+                    class="venobox"
+                    title="Card 1"
+                    ><i
+                      class="bx
+                  bx-plus"
+                    ></i
+                  ></g-link>
+                  <g-link href="portfolio-details.html" title="More Details"
+                    ><i
+                      class="bx
+                  bx-link"
+                    ></i
+                  ></g-link>
                 </div>
               </div>
             </div>
@@ -449,16 +732,31 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <g-image src="~/assets/theme/assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt=""/>
+              <g-image
+                src="~/assets/theme/assets/img/portfolio/portfolio-8.jpg"
+                class="img-fluid"
+                alt=""
+              />
               <div class="portfolio-info">
                 <h4>Card 3</h4>
                 <p>Card</p>
                 <div class="portfolio-links">
-                  <g-link href="~/assets/theme/assets/img/portfolio/portfolio-8.jpg"
-                  data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx
-                  bx-plus"></i></g-link>
-                  <g-link href="portfolio-details.html" title="More Details"><i class="bx
-                  bx-link"></i></g-link>
+                  <g-link
+                    href="~/assets/theme/assets/img/portfolio/portfolio-8.jpg"
+                    data-gall="portfolioGallery"
+                    class="venobox"
+                    title="Card 3"
+                    ><i
+                      class="bx
+                  bx-plus"
+                    ></i
+                  ></g-link>
+                  <g-link href="portfolio-details.html" title="More Details"
+                    ><i
+                      class="bx
+                  bx-link"
+                    ></i
+                  ></g-link>
                 </div>
               </div>
             </div>
@@ -466,37 +764,53 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <g-image src="~/assets/theme/assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt=""/>
+              <g-image
+                src="~/assets/theme/assets/img/portfolio/portfolio-9.jpg"
+                class="img-fluid"
+                alt=""
+              />
               <div class="portfolio-info">
                 <h4>Web 3</h4>
                 <p>Web</p>
                 <div class="portfolio-links">
-                  <g-link href="~/assets/theme/assets/img/portfolio/portfolio-9.jpg"
-                  data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx
-                  bx-plus"></i></g-link>
-                  <g-link href="portfolio-details.html" title="More Details"><i class="bx
-                  bx-link"></i></g-link>
+                  <g-link
+                    href="~/assets/theme/assets/img/portfolio/portfolio-9.jpg"
+                    data-gall="portfolioGallery"
+                    class="venobox"
+                    title="Web 3"
+                    ><i
+                      class="bx
+                  bx-plus"
+                    ></i
+                  ></g-link>
+                  <g-link href="portfolio-details.html" title="More Details"
+                    ><i
+                      class="bx
+                  bx-link"
+                    ></i
+                  ></g-link>
                 </div>
               </div>
             </div>
           </div>
-
         </div>
-
       </div>
-    </section><!-- End Portfolio Section -->
+    </section>
+    <!-- End Portfolio Section -->
 
     <!-- ======= Pricing Section ======= -->
     <section id="pricing" class="pricing section-bg">
       <div class="container" data-aos="fade-up">
-
         <div class="section-title">
           <h2>Pricing</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.</p>
+          <p>
+            Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex
+            aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos
+            quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
+          </p>
         </div>
 
         <div class="row">
-
           <div class="col-lg-4 col-md-6">
             <div class="box" data-aos="fade-up" data-aos-delay="100">
               <h3>Free</h3>
@@ -547,107 +861,159 @@
               </div>
             </div>
           </div>
-
         </div>
-
       </div>
-    </section><!-- End Pricing Section -->
+    </section>
+    <!-- End Pricing Section -->
 
     <!-- ======= Frequently Asked Questions Section ======= -->
     <section id="faq" class="faq">
       <div class="container" data-aos="fade-up">
-
         <div class="section-title">
           <h2>Frequently Asked Questions</h2>
         </div>
 
         <ul class="faq-list" data-aos="fade-up">
-
           <li>
-            <g-link data-toggle="collapse" class="collapsed" href="#faq1">Non consectetur a erat nam at lectus
-            urna duis? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></g-link>
+            <g-link data-toggle="collapse" class="collapsed" href="#faq1"
+              >Non consectetur a erat nam at lectus urna duis?
+              <i class="bx bx-chevron-down icon-show"></i
+              ><i class="bx bx-x icon-close"></i
+            ></g-link>
             <div id="faq1" class="collapse" data-parent=".faq-list">
               <p>
-                Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+                Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id
+                volutpat lacus laoreet non curabitur gravida. Venenatis lectus
+                magna fringilla urna porttitor rhoncus dolor purus non.
               </p>
             </div>
           </li>
 
           <li>
-            <g-link data-toggle="collapse" href="#faq2" class="collapsed">Feugiat scelerisque varius morbi
-            enim nunc faucibus a pellentesque? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x
-            icon-close"></i></g-link>
+            <g-link data-toggle="collapse" href="#faq2" class="collapsed"
+              >Feugiat scelerisque varius morbi enim nunc faucibus a
+              pellentesque? <i class="bx bx-chevron-down icon-show"></i
+              ><i
+                class="bx bx-x
+            icon-close"
+              ></i
+            ></g-link>
             <div id="faq2" class="collapse" data-parent=".faq-list">
               <p>
-                Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                Dolor sit amet consectetur adipiscing elit pellentesque habitant
+                morbi. Id interdum velit laoreet id donec ultrices. Fringilla
+                phasellus faucibus scelerisque eleifend donec pretium. Est
+                pellentesque elit ullamcorper dignissim. Mauris ultrices eros in
+                cursus turpis massa tincidunt dui.
               </p>
             </div>
           </li>
 
           <li>
-            <g-link data-toggle="collapse" href="#faq3" class="collapsed">Dolor sit amet consectetur
-            adipiscing elit pellentesque habitant morbi? <i class="bx bx-chevron-down icon-show"></i><i
-            class="bx bx-x icon-close"></i></g-link>
+            <g-link data-toggle="collapse" href="#faq3" class="collapsed"
+              >Dolor sit amet consectetur adipiscing elit pellentesque habitant
+              morbi? <i class="bx bx-chevron-down icon-show"></i
+              ><i class="bx bx-x icon-close"></i
+            ></g-link>
             <div id="faq3" class="collapse" data-parent=".faq-list">
               <p>
-                Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
+                Eleifend mi in nulla posuere sollicitudin aliquam ultrices
+                sagittis orci. Faucibus pulvinar elementum integer enim. Sem
+                nulla pharetra diam sit amet nisl suscipit. Rutrum tellus
+                pellentesque eu tincidunt. Lectus urna duis convallis convallis
+                tellus. Urna molestie at elementum eu facilisis sed odio morbi
+                quis
               </p>
             </div>
           </li>
 
           <li>
-            <g-link data-toggle="collapse" href="#faq4" class="collapsed">Ac odio tempor orci dapibus. Aliquam
-            eleifend mi in nulla? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x
-            icon-close"></i></g-link>
+            <g-link data-toggle="collapse" href="#faq4" class="collapsed"
+              >Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?
+              <i class="bx bx-chevron-down icon-show"></i
+              ><i
+                class="bx bx-x
+            icon-close"
+              ></i
+            ></g-link>
             <div id="faq4" class="collapse" data-parent=".faq-list">
               <p>
-                Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                Dolor sit amet consectetur adipiscing elit pellentesque habitant
+                morbi. Id interdum velit laoreet id donec ultrices. Fringilla
+                phasellus faucibus scelerisque eleifend donec pretium. Est
+                pellentesque elit ullamcorper dignissim. Mauris ultrices eros in
+                cursus turpis massa tincidunt dui.
               </p>
             </div>
           </li>
 
           <li>
-            <g-link data-toggle="collapse" href="#faq5" class="collapsed">Tempus quam pellentesque nec nam
-            aliquam sem et tortor consequat? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x
-            icon-close"></i></g-link>
+            <g-link data-toggle="collapse" href="#faq5" class="collapsed"
+              >Tempus quam pellentesque nec nam aliquam sem et tortor consequat?
+              <i class="bx bx-chevron-down icon-show"></i
+              ><i
+                class="bx bx-x
+            icon-close"
+              ></i
+            ></g-link>
             <div id="faq5" class="collapse" data-parent=".faq-list">
               <p>
-                Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
+                Molestie a iaculis at erat pellentesque adipiscing commodo.
+                Dignissim suspendisse in est ante in. Nunc vel risus commodo
+                viverra maecenas accumsan. Sit amet nisl suscipit adipiscing
+                bibendum est. Purus gravida quis blandit turpis cursus in
               </p>
             </div>
           </li>
 
           <li>
-            <g-link data-toggle="collapse" href="#faq6" class="collapsed">Tortor vitae purus faucibus ornare.
-            Varius vel pharetra vel turpis nunc eget lorem dolor? <i class="bx bx-chevron-down
-            icon-show"></i><i class="bx bx-x icon-close"></i></g-link>
+            <g-link data-toggle="collapse" href="#faq6" class="collapsed"
+              >Tortor vitae purus faucibus ornare. Varius vel pharetra vel
+              turpis nunc eget lorem dolor?
+              <i
+                class="bx bx-chevron-down
+            icon-show"
+              ></i
+              ><i class="bx bx-x icon-close"></i
+            ></g-link>
             <div id="faq6" class="collapse" data-parent=".faq-list">
               <p>
-                Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque. Pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Nibh tellus molestie nunc non blandit massa enim nec.
+                Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris
+                vitae ultricies leo integer malesuada nunc vel. Tincidunt eget
+                nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed.
+                Ut venenatis tellus in metus vulputate eu scelerisque.
+                Pellentesque diam volutpat commodo sed egestas egestas fringilla
+                phasellus faucibus. Nibh tellus molestie nunc non blandit massa
+                enim nec.
               </p>
             </div>
           </li>
-
         </ul>
-
       </div>
-    </section><!-- End Frequently Asked Questions Section -->
+    </section>
+    <!-- End Frequently Asked Questions Section -->
 
     <!-- ======= Team Section ======= -->
     <section id="team" class="team section-bg">
       <div class="container" data-aos="fade-up">
-
         <div class="section-title">
           <h2>Team</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.</p>
+          <p>
+            Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex
+            aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos
+            quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
+          </p>
         </div>
 
         <div class="row">
-
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
-                <g-image src="~/assets/theme/assets/img/team/team-1.jpg" class="img-fluid" alt=""/>
+                <g-image
+                  src="~/assets/theme/assets/img/team/team-1.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
                 <div class="social">
                   <g-link href=""><i class="icofont-twitter"></i></g-link>
                   <g-link href=""><i class="icofont-facebook"></i></g-link>
@@ -665,7 +1031,11 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="200">
               <div class="member-img">
-                <g-image src="~/assets/theme/assets/img/team/team-2.jpg" class="img-fluid" alt=""/>
+                <g-image
+                  src="~/assets/theme/assets/img/team/team-2.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
                 <div class="social">
                   <g-link href=""><i class="icofont-twitter"></i></g-link>
                   <g-link href=""><i class="icofont-facebook"></i></g-link>
@@ -683,7 +1053,11 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="300">
               <div class="member-img">
-                <g-image src="~/assets/theme/assets/img/team/team-3.jpg" class="img-fluid" alt=""/>
+                <g-image
+                  src="~/assets/theme/assets/img/team/team-3.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
                 <div class="social">
                   <g-link href=""><i class="icofont-twitter"></i></g-link>
                   <g-link href=""><i class="icofont-facebook"></i></g-link>
@@ -701,7 +1075,11 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="400">
               <div class="member-img">
-                <g-image src="~/assets/theme/assets/img/team/team-4.jpg" class="img-fluid" alt=""/>
+                <g-image
+                  src="~/assets/theme/assets/img/team/team-4.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
                 <div class="social">
                   <g-link href=""><i class="icofont-twitter"></i></g-link>
                   <g-link href=""><i class="icofont-facebook"></i></g-link>
@@ -715,25 +1093,25 @@
               </div>
             </div>
           </div>
-
         </div>
-
       </div>
-    </section><!-- End Team Section -->
+    </section>
+    <!-- End Team Section -->
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
       <div class="container" data-aos="fade-up">
-
         <div class="section-title">
           <h2>Contact</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.</p>
+          <p>
+            Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex
+            aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos
+            quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
+          </p>
         </div>
 
         <div class="row" data-aos="fade-up" data-aos-delay="100">
-
           <div class="col-lg-6">
-
             <div class="row">
               <div class="col-md-12">
                 <div class="info-box">
@@ -746,63 +1124,100 @@
                 <div class="info-box mt-4">
                   <i class="bx bx-envelope"></i>
                   <h3>Email Us</h3>
-                  <p>info@example.com<br>contact@example.com</p>
+                  <p>info@example.com<br />contact@example.com</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="info-box mt-4">
                   <i class="bx bx-phone-call"></i>
                   <h3>Call Us</h3>
-                  <p>+1 5589 55488 55<br>+1 6678 254445 41</p>
+                  <p>+1 5589 55488 55<br />+1 6678 254445 41</p>
                 </div>
               </div>
             </div>
-
           </div>
 
           <div class="col-lg-6">
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+            <form
+              action="forms/contact.php"
+              method="post"
+              role="form"
+              class="php-email-form"
+            >
               <div class="form-row">
                 <div class="col form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                  <input
+                    type="text"
+                    name="name"
+                    class="form-control"
+                    id="name"
+                    placeholder="Your Name"
+                    data-rule="minlen:4"
+                    data-msg="Please enter at least 4 chars"
+                  />
                   <div class="validate"></div>
                 </div>
                 <div class="col form-group">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+                  <input
+                    type="email"
+                    class="form-control"
+                    name="email"
+                    id="email"
+                    placeholder="Your Email"
+                    data-rule="email"
+                    data-msg="Please enter a valid email"
+                  />
                   <div class="validate"></div>
                 </div>
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                <input
+                  type="text"
+                  class="form-control"
+                  name="subject"
+                  id="subject"
+                  placeholder="Subject"
+                  data-rule="minlen:4"
+                  data-msg="Please enter at least 8 chars of subject"
+                />
                 <div class="validate"></div>
               </div>
               <div class="form-group">
-                <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+                <textarea
+                  class="form-control"
+                  name="message"
+                  rows="5"
+                  data-rule="required"
+                  data-msg="Please write something for us"
+                  placeholder="Message"
+                ></textarea>
                 <div class="validate"></div>
               </div>
               <div class="mb-3">
                 <div class="loading">Loading</div>
                 <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
+                <div class="sent-message">
+                  Your message has been sent. Thank you!
+                </div>
               </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
+              <div class="text-center">
+                <button type="submit">Send Message</button>
+              </div>
             </form>
           </div>
-
         </div>
-
       </div>
-    </section><!-- End Contact Section -->
-</Layout>
+    </section>
+    <!-- End Contact Section -->
+  </Layout>
 </template>
 
 <script>
 export default {
   metaInfo: {
-    title: 'Test'
+    title: "Test"
   }
 };
 </script>
 
-<style>
-</style>
+<style></style>
