@@ -137,34 +137,38 @@
 </template>
 
 <script>
-    export default {
-        name: 'Theme',
-        metaInfo: {
-            meta: [
-                { charset: 'utf-8' },
-                {
-                    name: 'viweport',
-                    content: 'width=device-width, initial-scale=1.0'
-                },
-                {
-                    name: 'description',
-                    content: (
-                        'Garner Engineering specializes in dam rehabilitation & remediation in NC, SC, & GA'
-                    )
-                },
-                {
-                    name: 'keywords',
-                    content: 'garner engineering, dam engineering, engineer asheville, civil engineer asheville'
-                },
-            ],
-            link: [
-                {
-                    rel: 'stylesheet',
-                    href: 'https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i'
-                },
-            ]
-        }
-    }
+import AOS from 'aos';
+import '~/assets/theme/assets/vendor/aos/aos.css'
+
+export default {
+    name: 'Theme',
+    metaInfo: {
+        meta: [
+            { charset: 'utf-8' },
+            {
+                name: 'viweport',
+                content: 'width=device-width, initial-scale=1.0'
+            },
+            {
+                name: 'description',
+                content: (
+                    'Garner Engineering specializes in dam rehabilitation & remediation in NC, SC, & GA'
+                )
+            },
+            {
+                name: 'keywords',
+                content: 'garner engineering, dam engineering, engineer asheville, civil engineer asheville'
+            },
+        ],
+        link: [
+            {
+                rel: 'stylesheet',
+                href: 'https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i'
+            },
+        ]
+    },
+    mounted: function() { AOS.init(); }
+}
 </script>
 
 <style>
