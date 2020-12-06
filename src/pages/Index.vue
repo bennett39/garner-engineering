@@ -3,22 +3,22 @@
     <!-- ======= Clients Section ======= -->
     <section id="clients" class="clients">
       <div class="container-fluid" data-aos="zoom-in">
-        <div class="row justify-content-center align-items-center">
-          <div class="col-2 text-center">
+        <div class="row justify-content-center align-items-center w-80">
+          <div class="col-lg-2 col-md-6 text-center">
             <g-image
               src="~/assets/clemson.png"
               alt=""
               width="100%"
             />
           </div>
-          <div class="col-2 text-center">
+          <div class="col-lg-2 col-md-6 text-center">
             <g-image
               src="~/assets/asdso.png"
               alt=""
               width="100%"
             />
           </div>
-          <div class="col-2 text-center">
+          <div class="col-lg-2 col-md-6 text-center">
             <g-image
               src="~/assets/asce.png"
               alt=""

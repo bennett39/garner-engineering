@@ -48,7 +48,7 @@
             <!-- .nav-menu -->
 
             <a href="#contact" class="get-started-btn scrollto">
-                Talk to Someone
+                Get in touch
             </a >
           </div>
         </div>
