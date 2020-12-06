@@ -49,7 +49,7 @@
 
             <a href="#contact" class="get-started-btn scrollto">
                 Get in touch
-            </a >
+            </a>
           </div>
         </div>
       </div>
