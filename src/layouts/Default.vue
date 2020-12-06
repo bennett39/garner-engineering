@@ -37,19 +37,19 @@
 
             <nav class="nav-menu d-none d-lg-block">
               <ul>
-                <li class="active"><a href="#header">Home</a></li>
+                <li class="active"><a href="#hero">Home</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="#services">Services</a></li>
-                <li><a href="#portfolio">Portfolio</a></li>
+                <li v-if="false"><a href="#portfolio">Portfolio</a></li>
                 <li><a href="#team">Team</a></li>
                 <li><a href="#contact">Contact</a></li>
               </ul>
             </nav>
             <!-- .nav-menu -->
 
-            <a href="#contact" class="get-started-btn scrollto"
-              >Talk to Someone</a
-            >
+            <a href="#contact" class="get-started-btn scrollto">
+                Talk to Someone
+            </a >
           </div>
         </div>
       </div>
@@ -68,9 +68,7 @@
                   Recently receive a letter from your state's dam safety office?
                   We can help.
                 </h2>
-                <a href="#about" class="btn-get-started scrollto"
-                  >Get Started</a
-                >
+                <a href="#about" class="btn-get-started scrollto">Get Started</a>
               </div>
             </div>
           </div>
@@ -89,65 +87,32 @@
       <div class="footer-top">
         <div class="container">
           <div class="row">
-            <div class="col-lg-3 col-md-6 footer-contact">
-              <h3>Presento<span>.</span></h3>
+            <div class="col-lg-4 col-md-6 footer-contact">
+              <h3>Garner Engineering</h3>
               <p>
-                A108 Adam Street <br />
-                New York, NY 535022<br />
-                United States <br /><br />
-                <strong>Phone:</strong> +1 5589 55488 55<br />
-                <strong>Email:</strong> info@example.com<br />
+                9 Davis Lane<br />
+                Fairview, NC 28730<br />
+                <strong>Phone:</strong> 828-337-5716<br />
+                <strong>Email:</strong> contact@garner-eng.com<br />
               </p>
             </div>
 
-            <div class="col-lg-2 col-md-6 footer-links">
+            <div class="col-lg-4 col-md-6 footer-links">
               <h4>Useful Links</h4>
               <ul>
                 <li>
-                  <i class="bx bx-chevron-right"></i> <a href="#">Home</a>
+                  <i class="bx bx-chevron-right"></i> <a href="#about">About us</a>
                 </li>
                 <li>
-                  <i class="bx bx-chevron-right"></i> <a href="#">About us</a>
+                  <i class="bx bx-chevron-right"></i> <a href="#services">Services</a>
                 </li>
                 <li>
-                  <i class="bx bx-chevron-right"></i> <a href="#">Services</a>
-                </li>
-                <li>
-                  <i class="bx bx-chevron-right"></i>
-                  <a href="#">Terms of service</a>
-                </li>
-                <li>
-                  <i class="bx bx-chevron-right"></i>
-                  <a href="#">Privacy policy</a>
+                  <i class="bx bx-chevron-right"></i> <a href="#contact">Contact</a>
                 </li>
               </ul>
             </div>
 
-            <div class="col-lg-3 col-md-6 footer-links">
-              <h4>Our Services</h4>
-              <ul>
-                <li>
-                  <i class="bx bx-chevron-right"></i> <a href="#">Web Design</a>
-                </li>
-                <li>
-                  <i class="bx bx-chevron-right"></i>
-                  <a href="#">Web Development</a>
-                </li>
-                <li>
-                  <i class="bx bx-chevron-right"></i>
-                  <a href="#">Product Management</a>
-                </li>
-                <li>
-                  <i class="bx bx-chevron-right"></i> <a href="#">Marketing</a>
-                </li>
-                <li>
-                  <i class="bx bx-chevron-right"></i>
-                  <a href="#">Graphic Design</a>
-                </li>
-              </ul>
-            </div>
-
-            <div class="col-lg-4 col-md-6 footer-newsletter">
+            <div class="col-lg-4 col-md-6 footer-newsletter" v-if="false">
               <h4>Join Our Newsletter</h4>
               <p>
                 Tamen quem nulla quae legam multos aute sint culpa legam noster
@@ -167,16 +132,14 @@
       <div class="container d-md-flex py-4">
         <div class="mr-md-auto text-center text-md-left">
           <div class="copyright">
-            &copy; Copyright <strong><span>Presento</span></strong
-            >. All Rights Reserved
+            &copy; Copyright <strong><span>Garner Engineering</span></strong>
           </div>
         </div>
         <div class="social-links text-center text-md-right pt-3 pt-md-0">
-          <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-          <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-          <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-          <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-          <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+          <a href="#" class="twitter" v-if="false"><i class="bx bxl-twitter"></i></a>
+          <a href="#" class="facebook" v-if="false"><i class="bx bxl-facebook"></i></a>
+          <a href="#" class="instagram" v-if="false"><i class="bx bxl-instagram"></i></a>
+          <a href="https://www.linkedin.com/company/garner-eng" class="linkedin"><i class="bx bxl-linkedin"></i></a>
         </div>
       </div>
     </footer>
@@ -207,7 +170,7 @@ export default {
       {
         name: "keywords",
         content:
-          "garner engineering, dam engineering, engineer asheville, civil engineer asheville"
+          "garner engineering, dam engineering, engineer asheville, dam engineering north carolina"
       }
     ],
     link: [

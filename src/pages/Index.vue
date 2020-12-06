@@ -3,45 +3,24 @@
     <!-- ======= Clients Section ======= -->
     <section id="clients" class="clients">
       <div class="container-fluid" data-aos="zoom-in">
-        <div class="row justify-content-center">
+        <div class="row justify-content-center align-items-center">
           <div class="col-2 text-center">
             <g-image
-              src="~/assets/theme/assets/img/clients/client-1.png"
+              src="~/assets/clemson.png"
               alt=""
               width="100%"
             />
           </div>
           <div class="col-2 text-center">
             <g-image
-              src="~/assets/theme/assets/img/clients/client-2.png"
+              src="~/assets/asdso.png"
               alt=""
               width="100%"
             />
           </div>
           <div class="col-2 text-center">
             <g-image
-              src="~/assets/theme/assets/img/clients/client-3.png"
-              alt=""
-              width="100%"
-            />
-          </div>
-          <div class="col-2 text-center">
-            <g-image
-              src="~/assets/theme/assets/img/clients/client-4.png"
-              alt=""
-              width="100%"
-            />
-          </div>
-          <div class="col-2 text-center">
-            <g-image
-              src="~/assets/theme/assets/img/clients/client-5.png"
-              alt=""
-              width="100%"
-            />
-          </div>
-          <div class="col-2 text-center">
-            <g-image
-              src="~/assets/theme/assets/img/clients/client-6.png"
+              src="~/assets/asce.png"
               alt=""
               width="100%"
             />
@@ -57,19 +36,11 @@
         <div class="row no-gutters">
           <div class="content col-xl-5 d-flex align-items-stretch">
             <div class="content">
-              <h3>Voluptatem dignissimos provident quasi</h3>
+              <h3>About Garner Engineering: How We Help Dam Owners Like You</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis
-                aute irure dolor in reprehenderit
+                  If you need assistance fixing a dam, decommissioning a pond or lake, or
+                  responding to a letter from your state’s dam safety office, we can help.
               </p>
-              <g-link href="#" class="about-btn"
-                ><span>About us</span>
-                <i
-                  class="bx
-              bx-chevron-right"
-                ></i
-              ></g-link>
             </div>
           </div>
           <div class="col-xl-7 d-flex align-items-stretch">
@@ -81,11 +52,12 @@
                   data-aos-delay="100"
                 >
                   <i class="bx bx-receipt"></i>
-                  <h4>Corporis voluptates sit</h4>
-                  <p>
-                    Consequuntur sunt aut quasi enim aliquam quae harum pariatur
-                    laboris nisi ut aliquip
-                  </p>
+                  <h4>Dam Inspections</h4>
+                    <p>
+                        Maybe you’ve owned a lake or pond for years. Or perhaps you’re thinking of purchasing
+                        a pond. We bring 20+ years of dam engineering expertise to every inspection to help
+                        dam owners rest easy.
+                    </p>
                 </div>
                 <div
                   class="col-md-6 icon-box"
@@ -93,10 +65,9 @@
                   data-aos-delay="200"
                 >
                   <i class="bx bx-cube-alt"></i>
-                  <h4>Ullamco laboris nisi</h4>
+                  <h4>Remediation Design</h4>
                   <p>
-                    Excepteur sint occaecat cupidatat non proident, sunt in
-                    culpa qui officia deserunt
+                    As your dam ages, it will need repairs to avoid failure. We design comprehensive plans that meet states’ rigorous dam safety regulations and safely extend your dam’s lifespan.
                   </p>
                 </div>
                 <div
@@ -105,10 +76,10 @@
                   data-aos-delay="300"
                 >
                   <i class="bx bx-images"></i>
-                  <h4>Labore consequatur</h4>
+                  <h4>Operations & Maintenance</h4>
                   <p>
-                    Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut
-                    maiores omnis facere
+                  Dams require ongoing care to operate safely. We develop maintenance plans for dams that take
+                  the worry out of dam ownership, and we have relationships with expert contractors to get the job done.
                   </p>
                 </div>
                 <div
@@ -117,10 +88,9 @@
                   data-aos-delay="400"
                 >
                   <i class="bx bx-shield"></i>
-                  <h4>Beatae veritatis</h4>
+                  <h4>Emergency Action Planning</h4>
                   <p>
-                    Expedita veritatis consequuntur nihil tempore laudantium
-                    vitae denat pacta
+                  Emergency action plans detail steps to be taken should anything go wrong with your dam. This document is for your personal use as the dam owner and also on file with the proper officials to bring you peace of mind.
                   </p>
                 </div>
               </div>
@@ -139,7 +109,7 @@
           <div class="col-lg-3 col-md-6">
             <div class="count-box">
               <i class="icofont-simple-smile"></i>
-              <span data-toggle="counter-up">232</span>
+              <span data-toggle="counter-up">187</span>
               <p>Happy Clients</p>
             </div>
           </div>
@@ -147,24 +117,24 @@
           <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
             <div class="count-box">
               <i class="icofont-document-folder"></i>
-              <span data-toggle="counter-up">521</span>
+              <span data-toggle="counter-up">289</span>
               <p>Projects</p>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
             <div class="count-box">
-              <i class="icofont-live-support"></i>
-              <span data-toggle="counter-up">1,463</span>
-              <p>Hours Of Support</p>
+              <i class="icofont-dollar"></i>
+              <span data-toggle="counter-up">1,000,000+</span>
+              <p>Project Budgets</p>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
             <div class="count-box">
-              <i class="icofont-users-alt-5"></i>
-              <span data-toggle="counter-up">15</span>
-              <p>Hard Workers</p>
+              <i class="icofont-calendar"></i>
+              <span data-toggle="counter-up">20+</span>
+              <p>Years Experience</p>
             </div>
           </div>
         </div>
@@ -172,305 +142,63 @@
     </section>
     <!-- End Counts Section -->
 
-    <!-- ======= Tabs Section ======= -->
-    <section id="tabs" class="tabs">
-      <div class="container" data-aos="fade-up">
-        <ul class="nav nav-tabs row d-flex">
-          <li class="nav-item col-3">
-            <g-link
-              class="nav-link active show"
-              data-toggle="tab"
-              href="#tab-1"
-            >
-              <i class="ri-gps-line"></i>
-              <h4 class="d-none d-lg-block">Modi sit est dela pireda nest</h4>
-            </g-link>
-          </li>
-          <li class="nav-item col-3">
-            <g-link class="nav-link" data-toggle="tab" href="#tab-2">
-              <i class="ri-body-scan-line"></i>
-              <h4 class="d-none d-lg-block">Unde praesenti mara setra le</h4>
-            </g-link>
-          </li>
-          <li class="nav-item col-3">
-            <g-link class="nav-link" data-toggle="tab" href="#tab-3">
-              <i class="ri-sun-line"></i>
-              <h4 class="d-none d-lg-block">Pariatur explica nitro dela</h4>
-            </g-link>
-          </li>
-          <li class="nav-item col-3">
-            <g-link class="nav-link" data-toggle="tab" href="#tab-4">
-              <i class="ri-store-line"></i>
-              <h4 class="d-none d-lg-block">Nostrum qui dile node</h4>
-            </g-link>
-          </li>
-        </ul>
-
-        <div class="tab-content">
-          <div class="tab-pane active show" id="tab-1">
-            <div class="row">
-              <div
-                class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0"
-                data-aos="fade-up"
-                data-aos-delay="100"
-              >
-                <h3>
-                  Voluptatem dignissimos provident quasi corporis voluptates sit
-                  assumenda.
-                </h3>
-                <p class="font-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                </p>
-                <ul>
-                  <li>
-                    <i class="ri-check-double-line"></i> Ullamco laboris nisi ut
-                    aliquip ex ea commodo consequat.
-                  </li>
-                  <li>
-                    <i class="ri-check-double-line"></i> Duis aute irure dolor
-                    in reprehenderit in voluptate velit.
-                  </li>
-                  <li>
-                    <i class="ri-check-double-line"></i> Ullamco laboris nisi ut
-                    aliquip ex ea commodo consequat. Duis aute irure dolor in
-                    reprehenderit in voluptate trideta storacalaperda mastiro
-                    dolore eu fugiat nulla pariatur.
-                  </li>
-                </ul>
-                <p>
-                  Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-                  aute irure dolor in reprehenderit in voluptate velit esse
-                  cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                  occaecat cupidatat non proident, sunt in culpa qui officia
-                  deserunt mollit anim id est laborum
-                </p>
-              </div>
-              <div
-                class="col-lg-6 order-1 order-lg-2 text-center"
-                data-aos="fade-up"
-                data-aos-delay="200"
-              >
-                <g-image
-                  src="~/assets/theme/assets/img/tabs-1.jpg"
-                  alt=""
-                  class="img-fluid"
-                />
-              </div>
-            </div>
-          </div>
-          <div class="tab-pane" id="tab-2">
-            <div class="row">
-              <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                <h3>
-                  Neque exercitationem debitis soluta quos debitis quo mollitia
-                  officia est
-                </h3>
-                <p>
-                  Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-                  aute irure dolor in reprehenderit in voluptate velit esse
-                  cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                  occaecat cupidatat non proident, sunt in culpa qui officia
-                  deserunt mollit anim id est laborum
-                </p>
-                <p class="font-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                </p>
-                <ul>
-                  <li>
-                    <i class="ri-check-double-line"></i> Ullamco laboris nisi ut
-                    aliquip ex ea commodo consequat.
-                  </li>
-                  <li>
-                    <i class="ri-check-double-line"></i> Duis aute irure dolor
-                    in reprehenderit in voluptate velit.
-                  </li>
-                  <li>
-                    <i class="ri-check-double-line"></i> Provident mollitia
-                    neque rerum asperiores dolores quos qui a. Ipsum neque dolor
-                    voluptate nisi sed.
-                  </li>
-                  <li>
-                    <i class="ri-check-double-line"></i> Ullamco laboris nisi ut
-                    aliquip ex ea commodo consequat. Duis aute irure dolor in
-                    reprehenderit in voluptate trideta storacalaperda mastiro
-                    dolore eu fugiat nulla pariatur.
-                  </li>
-                </ul>
-              </div>
-              <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <g-image
-                  src="~/assets/theme/assets/img/tabs-2.jpg"
-                  alt=""
-                  class="img-fluid"
-                />
-              </div>
-            </div>
-          </div>
-          <div class="tab-pane" id="tab-3">
-            <div class="row">
-              <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                <h3>
-                  Voluptatibus commodi ut accusamus ea repudiandae ut autem
-                  dolor ut assumenda
-                </h3>
-                <p>
-                  Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-                  aute irure dolor in reprehenderit in voluptate velit esse
-                  cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                  occaecat cupidatat non proident, sunt in culpa qui officia
-                  deserunt mollit anim id est laborum
-                </p>
-                <ul>
-                  <li>
-                    <i class="ri-check-double-line"></i> Ullamco laboris nisi ut
-                    aliquip ex ea commodo consequat.
-                  </li>
-                  <li>
-                    <i class="ri-check-double-line"></i> Duis aute irure dolor
-                    in reprehenderit in voluptate velit.
-                  </li>
-                  <li>
-                    <i class="ri-check-double-line"></i> Provident mollitia
-                    neque rerum asperiores dolores quos qui a. Ipsum neque dolor
-                    voluptate nisi sed.
-                  </li>
-                </ul>
-                <p class="font-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                </p>
-              </div>
-              <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <g-image
-                  src="~/assets/theme/assets/img/tabs-3.jpg"
-                  alt=""
-                  class="img-fluid"
-                />
-              </div>
-            </div>
-          </div>
-          <div class="tab-pane" id="tab-4">
-            <div class="row">
-              <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                <h3>
-                  Omnis fugiat ea explicabo sunt dolorum asperiores sequi
-                  inventore rerum
-                </h3>
-                <p>
-                  Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-                  aute irure dolor in reprehenderit in voluptate velit esse
-                  cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                  occaecat cupidatat non proident, sunt in culpa qui officia
-                  deserunt mollit anim id est laborum
-                </p>
-                <p class="font-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                </p>
-                <ul>
-                  <li>
-                    <i class="ri-check-double-line"></i> Ullamco laboris nisi ut
-                    aliquip ex ea commodo consequat.
-                  </li>
-                  <li>
-                    <i class="ri-check-double-line"></i> Duis aute irure dolor
-                    in reprehenderit in voluptate velit.
-                  </li>
-                  <li>
-                    <i class="ri-check-double-line"></i> Ullamco laboris nisi ut
-                    aliquip ex ea commodo consequat. Duis aute irure dolor in
-                    reprehenderit in voluptate trideta storacalaperda mastiro
-                    dolore eu fugiat nulla pariatur.
-                  </li>
-                </ul>
-              </div>
-              <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <g-image
-                  src="~/assets/theme/assets/img/tabs-4.jpg"
-                  alt=""
-                  class="img-fluid"
-                />
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- End Tabs Section -->
-
     <!-- ======= Services Section ======= -->
     <section id="services" class="services section-bg ">
       <div class="container" data-aos="fade-up">
         <div class="section-title">
           <h2>Services</h2>
-          <p>
-            Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex
-            aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos
-            quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
-          </p>
+              <p>
+                  If you need assistance fixing a dam, decommissioning a pond or lake, or
+                  responding to a letter from your state’s dam safety office, we can help.
+              </p>
+              <p>
+                The dam design process generally includes 4 phases:
+              </p>
         </div>
 
         <div class="row">
           <div class="col-md-6">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-              <i class="icofont-computer"></i>
-              <h4><g-link href="#">Lorem Ipsum</g-link></h4>
-              <p>
-                Voluptatum deleniti atque corrupti quos dolores et quas
-                molestias excepturi sint occaecati cupiditate non provident
-              </p>
+              <i class="icofont-chart-bar-graph"></i>
+                  <h4>Inspection, Planning, & Cost Estimate</h4>
+                    <p>
+                      Inspect the dam, review any documentation, and work with you to prepare preliminary
+                      design requirements and initial plans, including our best estimate for construction
+                      costs.
+                    </p>
             </div>
           </div>
           <div class="col-md-6 mt-4 mt-md-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
-              <i class="icofont-chart-bar-graph"></i>
-              <h4><g-link href="#">Dolor Sitema</g-link></h4>
-              <p>
-                Minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                aliquip ex ea commodo consequat tarad limino ata
-              </p>
+              <i class="icofont-computer"></i>
+                  <h4>Design & Permitting</h4>
+                  <p>
+                    Flood routing, watershed modeling, and downstream hazards inform the design specifications
+                    of the solution. We'll draft up final plans and walk them through the permitting process
+                    with your state's dam safety office and environmental protection agencies.
+                  </p>
             </div>
           </div>
           <div class="col-md-6 mt-4 mt-md-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
-              <i class="icofont-image"></i>
-              <h4><g-link href="#">Sed ut perspiciatis</g-link></h4>
-              <p>
-                Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur
-              </p>
+              <i class="icofont-under-construction-alt"></i>
+                  <h4>Construction Bidding</h4>
+                  <p>
+                    Request proposals from several construction companies to get the best value on
+                    construction costs and timeline. Over the past 20 years, we've developed deep
+                    relationships with contractors we trust and can recommend.
+                  </p>
             </div>
           </div>
           <div class="col-md-6 mt-4 mt-md-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
-              <i class="icofont-settings"></i>
-              <h4><g-link href="#">Nemo Enim</g-link></h4>
-              <p>
-                Excepteur sint occaecat cupidatat non proident, sunt in culpa
-                qui officia deserunt mollit anim id est laborum
-              </p>
-            </div>
-          </div>
-          <div class="col-md-6 mt-4 mt-md-0">
-            <div class="icon-box" data-aos="fade-up" data-aos-delay="500">
-              <i class="icofont-earth"></i>
-              <h4><g-link href="#">Magni Dolore</g-link></h4>
-              <p>
-                At vero eos et accusamus et iusto odio dignissimos ducimus qui
-                blanditiis praesentium voluptatum deleniti atque
-              </p>
-            </div>
-          </div>
-          <div class="col-md-6 mt-4 mt-md-0">
-            <div class="icon-box" data-aos="fade-up" data-aos-delay="600">
-              <i class="icofont-tasks-alt"></i>
-              <h4><g-link href="#">Eiusmod Tempor</g-link></h4>
-              <p>
-                Et harum quidem rerum facilis est et expedita distinctio. Nam
-                libero tempore, cum soluta nobis est eligendi
-              </p>
+              <i class="icofont-badge"></i>
+                  <h4>Observation & As-Built Plan Submission</h4>
+                  <p>
+                    Observe construction to make sure it meets design standards and conduct testing on
+                    materials as needed (e.g. concrete, soil compaction). Once construction is complete, we'll
+                    submit as-built plans and emergency action documentation to the state dam safety office.
+                  </p>
             </div>
           </div>
         </div>
@@ -479,7 +207,7 @@
     <!-- End Services Section -->
 
     <!-- ======= Portfolio Section ======= -->
-    <section id="portfolio" class="portfolio">
+    <section id="portfolio" class="portfolio" v-if="false">
       <div class="container" data-aos="fade-up">
         <div class="section-title">
           <h2>Portfolio</h2>
@@ -488,17 +216,6 @@
             aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos
             quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
           </p>
-        </div>
-
-        <div class="row" data-aos="fade-up" data-aos-delay="100">
-          <div class="col-lg-12 d-flex justify-content-center">
-            <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
-            </ul>
-          </div>
         </div>
 
         <div
@@ -798,76 +515,8 @@
     </section>
     <!-- End Portfolio Section -->
 
-    <!-- ======= Pricing Section ======= -->
-    <section id="pricing" class="pricing section-bg">
-      <div class="container" data-aos="fade-up">
-        <div class="section-title">
-          <h2>Pricing</h2>
-          <p>
-            Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex
-            aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos
-            quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
-          </p>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-4 col-md-6">
-            <div class="box" data-aos="fade-up" data-aos-delay="100">
-              <h3>Free</h3>
-              <h4><sup>$</sup>0<span> / month</span></h4>
-              <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li class="na">Pharetra massa</li>
-                <li class="na">Massa ultricies mi</li>
-              </ul>
-              <div class="btn-wrap">
-                <g-link href="#" class="btn-buy">Buy Now</g-link>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
-            <div class="box featured" data-aos="fade-up" data-aos-delay="200">
-              <h3>Business</h3>
-              <h4><sup>$</sup>19<span> / month</span></h4>
-              <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li>Pharetra massa</li>
-                <li class="na">Massa ultricies mi</li>
-              </ul>
-              <div class="btn-wrap">
-                <g-link href="#" class="btn-buy">Buy Now</g-link>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
-            <div class="box" data-aos="fade-up" data-aos-delay="300">
-              <h3>Developer</h3>
-              <h4><sup>$</sup>29<span> / month</span></h4>
-              <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li>Pharetra massa</li>
-                <li>Massa ultricies mi</li>
-              </ul>
-              <div class="btn-wrap">
-                <g-link href="#" class="btn-buy">Buy Now</g-link>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- End Pricing Section -->
-
     <!-- ======= Frequently Asked Questions Section ======= -->
-    <section id="faq" class="faq">
+    <section id="faq" class="faq" v-if="false">
       <div class="container" data-aos="fade-up">
         <div class="section-title">
           <h2>Frequently Asked Questions</h2>
@@ -999,75 +648,33 @@
         <div class="section-title">
           <h2>Team</h2>
           <p>
-            Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex
-            aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos
-            quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
+            Garner Engineering is a civil engineering firm proudly headquartered in beautiful Asheville, NC.
+          </p>
+          <p>
+            For over 20 years, we’ve specialized in civil engineering for dams. Garner Engineering's
+            expertise is small dams that are classified as high hazard.
           </p>
         </div>
 
         <div class="row">
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch"></div>
+
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
                 <g-image
-                  src="~/assets/theme/assets/img/team/team-1.jpg"
+                  src="~/assets/johngarner.png"
                   class="img-fluid"
                   alt=""
                 />
                 <div class="social">
-                  <g-link href=""><i class="icofont-twitter"></i></g-link>
-                  <g-link href=""><i class="icofont-facebook"></i></g-link>
-                  <g-link href=""><i class="icofont-instagram"></i></g-link>
-                  <g-link href=""><i class="icofont-linkedin"></i></g-link>
+                  <g-link href="https://twitter.com/1DamEngineer"><i class="icofont-twitter"></i></g-link>
+                  <g-link href="https://www.linkedin.com/in/john-garner-338ab810/"><i class="icofont-linkedin"></i></g-link>
                 </div>
               </div>
               <div class="member-info">
-                <h4>Walter White</h4>
-                <span>Chief Executive Officer</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="200">
-              <div class="member-img">
-                <g-image
-                  src="~/assets/theme/assets/img/team/team-2.jpg"
-                  class="img-fluid"
-                  alt=""
-                />
-                <div class="social">
-                  <g-link href=""><i class="icofont-twitter"></i></g-link>
-                  <g-link href=""><i class="icofont-facebook"></i></g-link>
-                  <g-link href=""><i class="icofont-instagram"></i></g-link>
-                  <g-link href=""><i class="icofont-linkedin"></i></g-link>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Sarah Jhonson</h4>
-                <span>Product Manager</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="300">
-              <div class="member-img">
-                <g-image
-                  src="~/assets/theme/assets/img/team/team-3.jpg"
-                  class="img-fluid"
-                  alt=""
-                />
-                <div class="social">
-                  <g-link href=""><i class="icofont-twitter"></i></g-link>
-                  <g-link href=""><i class="icofont-facebook"></i></g-link>
-                  <g-link href=""><i class="icofont-instagram"></i></g-link>
-                  <g-link href=""><i class="icofont-linkedin"></i></g-link>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>William Anderson</h4>
-                <span>CTO</span>
+                <h4>John F. Garner</h4>
+                <span>Principal</span>
               </div>
             </div>
           </div>
@@ -1076,23 +683,22 @@
             <div class="member" data-aos="fade-up" data-aos-delay="400">
               <div class="member-img">
                 <g-image
-                  src="~/assets/theme/assets/img/team/team-4.jpg"
+                  src="~/assets/robertdavies.jpg"
                   class="img-fluid"
                   alt=""
                 />
                 <div class="social">
-                  <g-link href=""><i class="icofont-twitter"></i></g-link>
-                  <g-link href=""><i class="icofont-facebook"></i></g-link>
-                  <g-link href=""><i class="icofont-instagram"></i></g-link>
-                  <g-link href=""><i class="icofont-linkedin"></i></g-link>
+                  <g-link href="https://www.linkedin.com/in/robert-davies-4ab695a5/"><i class="icofont-linkedin"></i></g-link>
                 </div>
               </div>
               <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Accountant</span>
+                <h4>Robert Davies</h4>
+                <span>Staff Engineer</span>
               </div>
             </div>
           </div>
+
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch"></div>
         </div>
       </div>
     </section>
@@ -1104,106 +710,35 @@
         <div class="section-title">
           <h2>Contact</h2>
           <p>
-            Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex
-            aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos
-            quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
+            Tell us about your engineering needs and how we can help.
           </p>
         </div>
 
         <div class="row" data-aos="fade-up" data-aos-delay="100">
-          <div class="col-lg-6">
+          <div class="col-lg-12">
             <div class="row">
               <div class="col-md-12">
                 <div class="info-box">
                   <i class="bx bx-map"></i>
                   <h3>Our Address</h3>
-                  <p>A108 Adam Street, New York, NY 535022</p>
+                  <p>9 Davis Lane, Fairview, NC 28730</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="info-box mt-4">
                   <i class="bx bx-envelope"></i>
                   <h3>Email Us</h3>
-                  <p>info@example.com<br />contact@example.com</p>
+                  <p>contact@garner-eng.com</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="info-box mt-4">
                   <i class="bx bx-phone-call"></i>
                   <h3>Call Us</h3>
-                  <p>+1 5589 55488 55<br />+1 6678 254445 41</p>
+                  <p>828-337-5716</p>
                 </div>
               </div>
             </div>
-          </div>
-
-          <div class="col-lg-6">
-            <form
-              action="forms/contact.php"
-              method="post"
-              role="form"
-              class="php-email-form"
-            >
-              <div class="form-row">
-                <div class="col form-group">
-                  <input
-                    type="text"
-                    name="name"
-                    class="form-control"
-                    id="name"
-                    placeholder="Your Name"
-                    data-rule="minlen:4"
-                    data-msg="Please enter at least 4 chars"
-                  />
-                  <div class="validate"></div>
-                </div>
-                <div class="col form-group">
-                  <input
-                    type="email"
-                    class="form-control"
-                    name="email"
-                    id="email"
-                    placeholder="Your Email"
-                    data-rule="email"
-                    data-msg="Please enter a valid email"
-                  />
-                  <div class="validate"></div>
-                </div>
-              </div>
-              <div class="form-group">
-                <input
-                  type="text"
-                  class="form-control"
-                  name="subject"
-                  id="subject"
-                  placeholder="Subject"
-                  data-rule="minlen:4"
-                  data-msg="Please enter at least 8 chars of subject"
-                />
-                <div class="validate"></div>
-              </div>
-              <div class="form-group">
-                <textarea
-                  class="form-control"
-                  name="message"
-                  rows="5"
-                  data-rule="required"
-                  data-msg="Please write something for us"
-                  placeholder="Message"
-                ></textarea>
-                <div class="validate"></div>
-              </div>
-              <div class="mb-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">
-                  Your message has been sent. Thank you!
-                </div>
-              </div>
-              <div class="text-center">
-                <button type="submit">Send Message</button>
-              </div>
-            </form>
           </div>
         </div>
       </div>
@@ -1215,7 +750,7 @@
 <script>
 export default {
   metaInfo: {
-    title: "Test"
+    title: "Dam Engineering in North Carolina"
   }
 };
 </script>
