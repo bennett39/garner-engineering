@@ -657,8 +657,7 @@
         </div>
 
         <div class="row">
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch"></div>
-
+          <div class="col"></div>
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
@@ -698,7 +697,25 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch"></div>
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="400">
+              <div class="member-img">
+                <g-image
+                  src="~/assets/ashleydavies.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
+                <div class="social">
+                  <g-link href="https://www.linkedin.com/in/ashley-davies-16bb221b5/"><i class="icofont-linkedin"></i></g-link>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Ashley Davies</h4>
+                <span>Staff Professional</span>
+              </div>
+            </div>
+          </div>
+          <div class="col"></div>
         </div>
       </div>
     </section>
@@ -717,25 +734,18 @@
         <div class="row" data-aos="fade-up" data-aos-delay="100">
           <div class="col-lg-12">
             <div class="row">
-              <div class="col-md-12">
+              <div class="col-md-6">
                 <div class="info-box">
                   <i class="bx bx-map"></i>
                   <h3>Our Address</h3>
-                  <p>9 Davis Lane, Fairview, NC 28730</p>
+                  <p>20 Glenn Willow Drive, Suite 11, Arden, NC 28704</p>
                 </div>
               </div>
               <div class="col-md-6">
-                <div class="info-box mt-4">
+                <div class="info-box">
                   <i class="bx bx-envelope"></i>
                   <h3>Email Us</h3>
                   <p>contact@garner-eng.com</p>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="info-box mt-4">
-                  <i class="bx bx-phone-call"></i>
-                  <h3>Call Us</h3>
-                  <p>828-337-5716</p>
                 </div>
               </div>
             </div>
