@@ -90,9 +90,8 @@
             <div class="col-lg-4 col-md-6 footer-contact">
               <h3>Garner Engineering</h3>
               <p>
-                9 Davis Lane<br />
-                Fairview, NC 28730<br />
-                <strong>Phone:</strong> 828-337-5716<br />
+                20 Glenn Willow Drive, Suite 11<br />
+                Arden, NC 28704<br />
                 <strong>Email:</strong> contact@garner-eng.com<br />
               </p>
             </div>
