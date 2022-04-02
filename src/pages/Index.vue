@@ -682,25 +682,6 @@
             <div class="member" data-aos="fade-up" data-aos-delay="400">
               <div class="member-img">
                 <g-image
-                  src="~/assets/robertdavies.jpg"
-                  class="img-fluid"
-                  alt=""
-                />
-                <div class="social">
-                  <g-link href="https://www.linkedin.com/in/robert-davies-4ab695a5/"><i class="icofont-linkedin"></i></g-link>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Robert Davies</h4>
-                <span>Staff Engineer</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="400">
-              <div class="member-img">
-                <g-image
                   src="~/assets/ashleydavies.jpg"
                   class="img-fluid"
                   alt=""
