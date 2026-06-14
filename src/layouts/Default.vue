@@ -3,16 +3,6 @@
     <!-- ======= Header ======= -->
     <header id="header" class="fixed-top">
       <div class="container-fluid">
-          <div class="row justify-content-center bg-warning mb-4 border border-primary">
-              <div class="col-xl-10 d-flex align-items-center">
-                  <span class="align-baseline p-2">
-                      Need help with a dam, bridge, retaining wall, or landslide in the aftermath of Hurricane Helene? <a href="#contact">Contact us</a>.
-                  </span>
-              </div>
-          </div>
-      </div>
-
-      <div class="container-fluid">
         <div class="row justify-content-center">
           <div class="col-xl-10 d-flex align-items-center">
             <g-link to="/" class="mr-auto">
@@ -50,7 +40,6 @@
                 <li class="active"><a href="#hero">Home</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="#services">Services</a></li>
-                <li v-if="false"><a href="#portfolio">Portfolio</a></li>
                 <li><a href="#team">Team</a></li>
                 <li><a href="#contact">Contact</a></li>
               </ul>

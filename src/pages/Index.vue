@@ -109,7 +109,7 @@
           <div class="col-lg-3 col-md-6">
             <div class="count-box">
               <i class="icofont-simple-smile"></i>
-              <span data-toggle="counter-up">187</span>
+              <span data-toggle="counter-up">200+</span>
               <p>Happy Clients</p>
             </div>
           </div>
@@ -117,7 +117,7 @@
           <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
             <div class="count-box">
               <i class="icofont-document-folder"></i>
-              <span data-toggle="counter-up">289</span>
+              <span data-toggle="counter-up">1000+</span>
               <p>Projects</p>
             </div>
           </div>
@@ -125,7 +125,7 @@
           <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
             <div class="count-box">
               <i class="icofont-dollar"></i>
-              <span data-toggle="counter-up">1,000,000+</span>
+              <span data-toggle="counter-up">10,000,000+</span>
               <p>Project Budgets</p>
             </div>
           </div>
@@ -133,7 +133,7 @@
           <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
             <div class="count-box">
               <i class="icofont-calendar"></i>
-              <span data-toggle="counter-up">20+</span>
+              <span data-toggle="counter-up">25+</span>
               <p>Years Experience</p>
             </div>
           </div>
@@ -667,7 +667,6 @@
                   alt=""
                 />
                 <div class="social">
-                  <g-link href="https://twitter.com/1DamEngineer"><i class="icofont-twitter"></i></g-link>
                   <g-link href="https://www.linkedin.com/in/john-garner-338ab810/"><i class="icofont-linkedin"></i></g-link>
                 </div>
               </div>
